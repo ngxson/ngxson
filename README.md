@@ -1,6 +1,8 @@
-<a href="https://github.com/ngxson">
-<img src="https://raw.githubusercontent.com/ngxson/ngxson/master/github-header.jpg" width="100%">
-<a>
+<p>
+  <a href="https://github.com/ngxson">
+    <img src="https://raw.githubusercontent.com/ngxson/ngxson/master/github-header.jpg" width="100%">
+  </a>
+</p>
 
 I'm a student living in France. My favorite programming language is Javascript (Node.js, Express.js, React.js,...). I can work on Facebook platform and Facebook Messenger chatbots. Apart from Javascript, I can also develop applications using PHP (Wordpress), Java (Android) and Python.
 
