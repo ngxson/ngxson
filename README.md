@@ -7,7 +7,13 @@ LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
 
 ## Working experiences
 
-| | |
-|---------|---------|
-|Jun 2020 - now|<b>Intern at [SimpleLogin](http://github.com/simple-login)</b><br/>- Chrome/Firefox extension|
-|Jun 2019 - Aug 2019|<b>Intern at [Botfuel](https://github.com/botfuel)<br/></b>- Frontend / React.js Development Internship<br/>- Facebook Messenger platform|
+<table>
+<tr>
+  <td>Jun 2020 - now</td>
+  <td><b>Intern at <a href="http://github.com/simple-login">SimpleLogin</a></b><br/>- Chrome/Firefox extension</td>
+</tr>
+<tr>
+  <td>Jun 2019 - Aug 2019</td>
+  <td><b>Intern at <a href="https://github.com/botfuel">Botfuel</a><br/></b>- Frontend / React.js Development Internship<br/>- Facebook Messenger platform</td>
+</tr>
+</table>
