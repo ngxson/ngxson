@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I'm a student at [INSA Centre Val de Loire](https://www.insa-centrevaldeloire.fr/en) - Specialisation: Information Technology and Cybersecurity (STI). My favorite programming language is Javascript (Node.js, Express.js, React.js,...). I can work on Facebook platform and Facebook Messenger chatbots. Apart from Javascript, I can also develop applications using PHP (Wordpress / Laravel), Java (Android application) and Python.
+I'm a student at [INSA Centre Val de Loire](https://www.insa-centrevaldeloire.fr/en) - Specialisation: Information Technology and Cybersecurity (STI). My favorite programming language is Javascript (Node.js, Express.js, React.js,...). I can work on Facebook platform and Facebook Messenger chatbots. Apart from Javascript, I can also develop applications using PHP (Wordpress, Laravel), Java (Android application) and Python.
 
 Website: [ngxson.com](https://ngxson.com/?utm_source=github)  
 LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
@@ -14,7 +14,7 @@ LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
 <table>
 <tr>
   <td>Jun 2020 - now</td>
-  <td><b>Intern at <a href="http://github.com/simple-login">SimpleLogin</a></b><br/>- Chrome/Firefox extension</td>
+  <td><b>Intern at <a href="http://github.com/simple-login">SimpleLogin</a></b><br/>- Chrome / Firefox extension</td>
 </tr>
 <tr>
   <td>Jun 2019 - Aug 2019</td>
