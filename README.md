@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I'm a student living in France. My favorite programming language is Javascript (Node.js, Express.js, React.js,...). I can work on Facebook platform and Facebook Messenger chatbots. Apart from Javascript, I can also develop applications using PHP (Wordpress), Java (Android) and Python.
+I'm a student at [INSA Centre Val de Loire](https://www.insa-centrevaldeloire.fr/en) (Specialisation: Information Technology and Cybersecurity). My favorite programming language is Javascript (Node.js, Express.js, React.js,...). I can work on Facebook platform and Facebook Messenger chatbots. Apart from Javascript, I can also develop applications using PHP (Wordpress / Laravel), Java (Android application) and Python.
 
 Website: [ngxson.com](https://ngxson.com/?utm_source=github)  
 LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
