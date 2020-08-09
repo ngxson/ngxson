@@ -4,6 +4,10 @@
   </a>
 </p>
 
+![](https://img.shields.io/badge/age-22-green)
+![](https://img.shields.io/badge/school-INSA-red)
+![](https://img.shields.io/badge/living--in-France-green)
+
 I'm a student at [INSA Centre Val de Loire](https://www.insa-centrevaldeloire.fr/en) - Specialisation: Information Technology and Cybersecurity (STI). My favorite programming language is Javascript (Node.js, Express.js, React.js,...). I can work on Facebook platform and Facebook Messenger chatbots. Apart from Javascript, I can also develop applications using PHP (Wordpress, Laravel), Java (Android application) and Python.
 
 Website: [ngxson.com](https://ngxson.com/?utm_source=github)  
