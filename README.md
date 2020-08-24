@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/age-22-green)
 ![](https://img.shields.io/badge/school-INSA-red)
 ![](https://img.shields.io/badge/living--in-France-green)
-![](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-78579525-14&cid=22f5823b-c960-46e2-a6cd-92439bdd4bf2&ds=github&dh=github.com&dp=%2Fgithub-profile)
+<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-78579525-14&cid=22f5823b-c960-46e2-a6cd-92439bdd4bf2&ds=github&dh=github.com&dp=%2Fgithub-profile">
 
 I'm a student at [INSA Centre Val de Loire](https://www.insa-centrevaldeloire.fr/en) - Specialisation: Information Technology and Cybersecurity (STI). My favorite programming language is Javascript (Node.js, Express.js, React.js,...). I can work on Facebook platform and Facebook Messenger chatbots. Apart from Javascript, I can also develop applications using PHP (Wordpress, Laravel), Java (Android application) and Python.
 
