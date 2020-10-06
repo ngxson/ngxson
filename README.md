@@ -18,7 +18,11 @@ LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
 
 <table>
 <tr>
-  <td>Jun 2020 - now</td>
+  <td>Oct 2020 - now</td>
+  <td><b>Apprenticeship at <a href="https://github.com/botfuel">Botfuel</a><br/></b></td>
+</tr>
+<tr>
+  <td>Jun 2020 - Aug 2020</td>
   <td><b>Intern at <a href="http://github.com/simple-login">SimpleLogin</a></b><br/>- Chrome / Firefox extension</td>
 </tr>
 <tr>
