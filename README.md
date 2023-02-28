@@ -18,7 +18,11 @@ LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
 
 <table>
 <tr>
-  <td>Oct 2020 - now</td>
+  <td>Sept 2022 - now</td>
+  <td><b>Apprenticeship at <a href="https://snowpack.eu">Snowpack</a><br/></b></td>
+</tr>
+<tr>
+  <td>Oct 2020 - Sept 2022</td>
   <td><b>Apprenticeship at <a href="https://github.com/botfuel">Botfuel</a><br/></b></td>
 </tr>
 <tr>
