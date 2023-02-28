@@ -19,11 +19,11 @@ LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
 <table>
 <tr>
   <td>Sept 2022 - now</td>
-  <td><b>Apprenticeship at <a href="https://snowpack.eu">Snowpack</a><br/></b></td>
+  <td><b>Apprenticeship at <a href="https://snowpack.eu">Snowpack</a><br/></b>- Network and cybersecurity engineer<br/>- Python / C++ developer</td>
 </tr>
 <tr>
   <td>Oct 2020 - Sept 2022</td>
-  <td><b>Apprenticeship at <a href="https://github.com/botfuel">Botfuel</a><br/></b></td>
+  <td><b>Apprenticeship at <a href="https://github.com/botfuel">Botfuel</a><br/></b>- Full-stack developer (ReactJS / Flask REST)</td>
 </tr>
 <tr>
   <td>Jun 2020 - Aug 2020</td>
