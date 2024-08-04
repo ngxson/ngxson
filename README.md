@@ -1,7 +1,7 @@
-## Xuan Son NGUYEN (Nui)
+## Xuan Son NGUYEN
 
-**Network and cybersecurity engineer**
+**Software engineer at [Hugging Face 🤗](https://github.com/huggingface)**
 
-Nationality: 🇻🇳 Vietnam   |   Living in: 🇫🇷 France  
+Location: 🇫🇷 France  
 Website: [ngxson.com](https://ngxson.com/?utm_source=github)  
 LinkedIn: [@ngxson](https://www.linkedin.com/in/ngxson/)
