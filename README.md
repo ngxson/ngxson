@@ -1,4 +1,4 @@
-Five bullets of what I accomplished last week:
+Five bullet points of what I accomplished last week:
 
 - Actively integrating Phi-4-mini-instruct support into `llama.cpp`, focusing on tokenization and embedding adjustments
 - Collaborating with team members through pull request reviews and comments on `llama.cpp` and `huggingface.js`
