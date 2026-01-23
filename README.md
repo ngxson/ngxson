@@ -1,5 +1,6 @@
 Hacking things on [llama.cpp](https://github.com/ggml-org/llama.cpp) [ Interested in my works? [Buy me a ☕](https://buymeacoffee.com/ngxson) or [Sponsor me 🩷](https://github.com/sponsors/ngxson) ]
 
+- New jinja template engine: https://github.com/ggml-org/llama.cpp/pull/18462
 - Adding MiMo-V2-Flash support: https://github.com/ggml-org/llama.cpp/pull/18328
 - Adding GLM-4V support: https://github.com/ggml-org/llama.cpp/pull/18042
 - The brand new `llama-cli`: https://github.com/ggml-org/llama.cpp/pull/17824
